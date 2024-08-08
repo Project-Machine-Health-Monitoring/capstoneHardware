@@ -1,6 +1,4 @@
-# capstoneHardware
-
-## MPU6050 Sensor Data Logger with Supabase Integration
+# MPU6050 Sensor Data Logger with Supabase Integration
 
 This Python script enables the collection and logging of data from an MPU6050 sensor while also integrating with the Supabase database for storage. Below is an overview of its functionality:
 
